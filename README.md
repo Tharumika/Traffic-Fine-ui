@@ -11,7 +11,7 @@ Features
 
 Screenshots
 
-![Home](home.png)
-![Payment](payment.png)
+![Design](traaffic fine UI design.png)
+![Home](traffic fine Home page.png)
 
 Made with ❤️ in Figma
